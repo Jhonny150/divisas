@@ -1,0 +1,58 @@
+{
+    "configuraciones": [
+        {
+            "id": 1,
+            "clave": "mensaje_bienvenida",
+            "valor": "DiviSOS"
+        },
+        {
+            "id": 2,
+            "clave": "alerta_error_operacion",
+            "valor": "Ha ocurrido un error al realizar la operaci\u00f3n. Por favor, intente nuevamente."
+        },
+        {
+            "id": 3,
+            "clave": "texto_boton_cambiar",
+            "valor": "Realizar cambio"
+        },
+        {
+            "id": 4,
+            "clave": "alerta_exito_operacion",
+            "valor": "La operaci\u00f3n se ha realizado con \u00e9xito."
+        },
+        {
+            "id": 5,
+            "clave": "mensaje_home",
+            "valor": "INICIO",
+            "icono": "fa-solid fa-house"
+        },
+        {
+            "id": 6,
+            "clave": "mensaje_cambio",
+            "valor": "CAMBIO",
+            "icono": "fa-solid fa-arrow-right"
+        },
+        {
+            "id": 7,
+            "clave": "mensaje_operaciones",
+            "valor": "OPERACIONES",
+            "icono": "fa-solid fa-cogs"
+        },
+        {
+            "id": 8,
+            "clave": "mensaje_config",
+            "valor": "CONFIGURACION",
+            "icono": "fa-solid fa-cog"
+        },
+        {
+            "id": 9,
+            "clave": "TituloPag",
+            "valor": "DiviSOS"
+        },
+        {
+            "id": 10,
+            "clave": "ImagenInicio",
+            "valor": "images\/depositphotos_756899782-stock-photo-black-euro-symbol-dark-background.jpg"
+        }
+    ]
+}

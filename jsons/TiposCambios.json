@@ -1,0 +1,19 @@
+{
+    "divisas": [
+        {
+            "codigo": "MX",
+            "nombre": "Peso Mexicano",
+            "valor": "$1"
+        },
+        {
+            "codigo": "EUR",
+            "nombre": "Euro",
+            "valor": "$1"
+        },
+        {
+            "codigo": "YEN",
+            "nombre": "YEN",
+            "valor": "$20"
+        }
+    ]
+}

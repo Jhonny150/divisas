@@ -1,0 +1,26 @@
+[
+    {
+        "cantidad": 100,
+        "tipoCambio": {
+            "de": "MX",
+            "a": "DLR"
+        },
+        "totalVenta": 18
+    },
+    {
+        "cantidad": 255,
+        "tipoCambio": {
+            "de": "MX",
+            "a": "DLR"
+        },
+        "totalVenta": 45.9
+    },
+    {
+        "cantidad": 200,
+        "tipoCambio": {
+            "de": "MX",
+            "a": "YEN"
+        },
+        "totalVenta": 9
+    }
+]
